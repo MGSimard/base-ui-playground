@@ -1,7 +1,7 @@
 import * as React from "react";
 import { ContextMenu } from "@base-ui-components/react/context-menu";
 
-export default function ExampleMenu() {
+export default function ExampleContextMenu() {
   return (
     <ContextMenu.Root>
       <ContextMenu.Trigger className="flex h-[12rem] w-[15rem] items-center justify-center rounded border border-gray-300 text-gray-900 select-none">

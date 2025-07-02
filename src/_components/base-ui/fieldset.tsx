@@ -2,7 +2,7 @@ import * as React from "react";
 import { Field } from "@base-ui-components/react/field";
 import { Fieldset } from "@base-ui-components/react/fieldset";
 
-export default function ExampleField() {
+export default function ExampleFieldset() {
   return (
     <Fieldset.Root className="flex w-full max-w-64 flex-col gap-4">
       <Fieldset.Legend className="border-b border-gray-200 pb-3 text-lg font-medium text-gray-900">
