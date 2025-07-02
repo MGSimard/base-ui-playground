@@ -40,38 +40,165 @@ function App() {
   return (
     <div>
       <h1>Hello World</h1>
-      <ExampleAccordion />
-      <ExampleAlertDialog />
-      <ExampleAvatar />
-      <ExampleCheckbox />
-      <ExampleCheckboxGroup />
-      <ExampleCollapsible />
-      <ExampleContextMenu />
-      <ExampleDialog />
-      <ExampleField />
-      <ExampleFieldset />
-      <ExampleForm />
-      <ExampleInput />
-      <ExampleMenu />
-      <ExampleMenubar />
-      <ExampleMeter />
-      <ExampleNavigationMenu />
-      <ExampleNumberField />
-      <ExamplePopover />
-      <ExamplePreviewCard />
-      <ExampleProgress />
-      <ExampleRadioGroup />
-      <ExampleScrollArea />
-      <ExampleSelect />
-      <ExampleSeparator />
-      <ExampleSlider />
-      <ExampleSwitch />
-      <ExampleTabs />
-      <ExampleToast />
-      <ExampleToggleGroup />
-      <ExampleToggle />
-      <ExampleToolbar />
-      <ExampleTooltip />
+      <section>
+        <h2>Accordion</h2>
+        <ExampleAccordion />
+      </section>
+
+      <section>
+        <h2>Alert Dialog</h2>
+        <ExampleAlertDialog />
+      </section>
+
+      <section>
+        <h2>Avatar</h2>
+        <ExampleAvatar />
+      </section>
+
+      <section>
+        <h2>Checkbox</h2>
+        <ExampleCheckbox />
+      </section>
+
+      <section>
+        <h2>Checkbox Group</h2>
+        <ExampleCheckboxGroup />
+      </section>
+
+      <section>
+        <h2>Collapsible</h2>
+        <ExampleCollapsible />
+      </section>
+
+      <section>
+        <h2>Context Menu</h2>
+        <ExampleContextMenu />
+      </section>
+
+      <section>
+        <h2>Dialog</h2>
+        <ExampleDialog />
+      </section>
+
+      <section>
+        <h2>Field</h2>
+        <ExampleField />
+      </section>
+
+      <section>
+        <h2>Fieldset</h2>
+        <ExampleFieldset />
+      </section>
+
+      <section>
+        <h2>Form</h2>
+        <ExampleForm />
+      </section>
+
+      <section>
+        <h2>Input</h2>
+        <ExampleInput />
+      </section>
+
+      <section>
+        <h2>Menu</h2>
+        <ExampleMenu />
+      </section>
+
+      <section>
+        <h2>Menubar</h2>
+        <ExampleMenubar />
+      </section>
+
+      <section>
+        <h2>Meter</h2>
+        <ExampleMeter />
+      </section>
+
+      <section>
+        <h2>Navigation Menu</h2>
+        <ExampleNavigationMenu />
+      </section>
+
+      <section>
+        <h2>Number Field</h2>
+        <ExampleNumberField />
+      </section>
+
+      <section>
+        <h2>Popover</h2>
+        <ExamplePopover />
+      </section>
+
+      <section>
+        <h2>Preview Card</h2>
+        <ExamplePreviewCard />
+      </section>
+
+      <section>
+        <h2>Progress</h2>
+        <ExampleProgress />
+      </section>
+
+      <section>
+        <h2>Select</h2>
+        <ExampleSelect />
+      </section>
+
+      <section>
+        <h2>Separator</h2>
+        <ExampleSeparator />
+      </section>
+
+      <section>
+        <h2>Scroll Area</h2>
+        <ExampleScrollArea />
+      </section>
+
+      <section>
+        <h2>Tabs</h2>
+        <ExampleTabs />
+      </section>
+
+      <section>
+        <h2>Slider</h2>
+        <ExampleSlider />
+      </section>
+
+      <section>
+        <h2>Switch</h2>
+        <ExampleSwitch />
+      </section>
+
+      <section>
+        <h2>Toggle Group</h2>
+        <ExampleToggleGroup />
+      </section>
+
+      <section>
+        <h2>Toggle</h2>
+        <ExampleToggle />
+      </section>
+
+      <section>
+        <h2>Radio Group</h2>
+        <ExampleRadioGroup />
+      </section>
+
+      <section>
+        <h2>Toast</h2>
+        <ExampleToast />
+      </section>
+
+      <section>
+        <h2>Toolbar</h2>
+        <ExampleToolbar />
+      </section>
+
+      <section>
+        <h2>Tooltip</h2>
+        <ExampleTooltip />
+      </section>
     </div>
   );
 }
